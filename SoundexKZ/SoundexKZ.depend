@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1507314492 source:/home/raushan/c++/attestacia/SoundexKZ/main.cpp
+	<iostream>
+	<set>
+	<string>
+	<boost/algorithm/string.hpp>
+
+1515749150 source:/home/raushan/Documents/VMU lessons/Information retrieval/HW3/SoundexKZ/main.cpp
+	<iostream>
+	<set>
+	<string>
+
