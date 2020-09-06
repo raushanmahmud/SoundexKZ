@@ -2,7 +2,7 @@
 
 Project for course <b>"Information Retrieval"</b> by <i>Raushan Yergozhiyeva</i>
 
-Building first Soundex algorithm for Kazakh(for names and surnames)
+<b>Building first Soundex algorithm for Kazakh(for names and surnames)</b>
 
 To run the compiled version of the program:
 1. open command line
