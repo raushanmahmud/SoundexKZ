@@ -1,7 +1,5 @@
 <h1>Soundex algorithm for Kazakh</h1>
 
-Project for course <b>"Information Retrieval"</b> by <i>Raushan Yergozhiyeva</i>
-
 <b>Building first Soundex algorithm for Kazakh(for names and surnames)</b>
 
 To run the compiled version of the program:
