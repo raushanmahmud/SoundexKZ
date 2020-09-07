@@ -1,6 +1,6 @@
 <h1>Soundex algorithm for Kazakh</h1>
 
-<b>Building first Soundex algorithm for Kazakh(for names and surnames)</b>
+<b>First Soundex algorithm for Kazakh(for names and surnames)</b>
 
 To run the compiled version of the program:
 1. open command line
